@@ -1,4 +1,10 @@
-# Batu's Academia
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/batukoray/assets_of_mine/main/batus_academia.png"
+    alt="Project banner"
+    width="100%"
+  />
+</p>
 
 This is where my own academic material lives. Notes, write-ups, derivations, and anything else I put together for a course I took or a course I teach.
 
