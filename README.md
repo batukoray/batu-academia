@@ -6,7 +6,7 @@
   />
 </p>
 
-This is where my own academic material lives. Notes, write-ups, derivations, and anything else I put together for a course I took or a course I teach.
+This is where I keep academic material from courses I took or teach, including my own notes, write-ups, and derivations, as well as collected course materials and past exams.
 
 ## Why This Exists
 
@@ -18,15 +18,12 @@ They're also here because notes that live only on my laptop have a way of not ex
 
 ## Contents
 
-| Subject | Status |
+| Subject | Materials |
 |---|---|
-| Single-Variable Calculus | Not available |
-| Multivariable Calculus | Maybe in the future |
-| Differential Equations | Available (Needs polishing) |
-| Probability and Statistics | Planned |
-| Introduction to Data Science | Available |
-| Natural Language Processing | Would love to do, but it'll take too much time |
-| Membership Inference Attacks on LLMs | Available |
+| [Mathematics](Mathematics/) | Calculus, differential equations, linear algebra, probability and statistics |
+| [Artificial Intelligence and Computer Science](Artificial%20Intelligence%20-%20Computer%20Science/) | Machine learning, object-oriented programming, operating systems |
+| [Physics](Physics/) | Physics I and II |
+| [Social Sciences](Social%20Sciences/) | History I and II |
 
 
 ## Errata
@@ -35,13 +32,13 @@ Found a mistake? Open an issue. I would rather be corrected by a stranger on the
 
 ## Copyright
 
-© 2026 Batu Koray Masak. All rights reserved.
+© 2026 Batu Koray Masak. All rights reserved for my original work. Other materials belong to their respective authors and rights holders.
 
-No open source license here, which is deliberate. Default copyright applies: read these, learn from them, study off them. Don't redistribute, republish, or sell them without asking me first.
+No open source license here, which is deliberate. For my original work, read it, learn from it, study off it. Don't redistribute, republish, or sell it without asking me first. Other materials may have their own terms.
 
 Ask me, though. I've been on the other side of needing good notes.
 
-> These are my personal notes. They are not official course material from Özyeğin or Koç University.
+> My notes are personal and are not official course material from Özyeğin or Koç University. The collection also includes materials from other sources.
 
 <p align="center">
   <img
